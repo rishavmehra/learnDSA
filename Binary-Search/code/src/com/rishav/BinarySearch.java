@@ -3,7 +3,7 @@ package com.rishav;
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {2,4,6,8,7,9,11,18,21,22,45,56};
-        int target = 34;
+        int target = 55;
         System.out.println(binarySearch(arr,target));
     }
 
@@ -21,7 +21,7 @@ public class BinarySearch {
                 return mid;
             }
         }
-        return -1;
+        return end;
     }
 
     static int linearSearch(int[] arr, int target){
