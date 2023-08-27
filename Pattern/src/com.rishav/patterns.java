@@ -1,9 +1,13 @@
 package com.rishav;
 
+import java.util.Collection;
+import java.util.Stack;
+
 public class patterns {
     public static void main(String[] args) {
         eleven(4);
     }
+
 
     public static void first(int n){
         for (int i = 0; i < n; i++) {
@@ -12,6 +16,7 @@ public class patterns {
             }
             System.out.println();
         }
+
     }
 
     public  static void second(int n){
