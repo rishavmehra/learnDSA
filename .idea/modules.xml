@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary-Search/Binary-Search.iml" filepath="$PROJECT_DIR$/Binary-Search/Binary-Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals-Loops/Conditionals-Loops.iml" filepath="$PROJECT_DIR$/Conditionals-Loops/Conditionals-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First-Program/First-Program.iml" filepath="$PROJECT_DIR$/First-Program/First-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear-Search/Linear-Search.iml" filepath="$PROJECT_DIR$/Linear-Search/Linear-Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/code/code.iml" filepath="$PROJECT_DIR$/Arrays/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learnDSA.iml" filepath="$PROJECT_DIR$/.idea/learnDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/Arrays/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
+    </modules>
+  </component>
+</project>
